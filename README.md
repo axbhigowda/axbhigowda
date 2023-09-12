@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axbhigowda
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Embedded Systems, DevOps,AIML.
+- 🌱 I’m currently learning Gstreamer,Linux
 - 📫 How to reach me abhigowda5775@gmail.com
 
 <!---
